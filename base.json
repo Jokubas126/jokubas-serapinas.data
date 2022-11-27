@@ -1,0 +1,23 @@
+{
+    "data_type": "base",
+    "background_image": "https://i.ibb.co/sPg01Yz/main-background.jpg",
+    "full_name": "Jokubas Serapinas",
+    "contacts": {
+        "personal_email": "serapinasjokubas@gmail.com",
+        "work_email": "jokubas@shapegames.com"
+    },
+    "social_media_items": [
+        {
+            "ion_icon": "logo-instagram",
+            "link": "https://www.instagram.com/jokubass7/?hl=en"
+        },
+        {
+            "ion_icon": "logo-linkedin",
+            "link": "https://www.linkedin.com/in/jokubas-serapinas"
+        },
+        {
+            "ion_icon": "logo-github",
+            "link": "https://github.com/Jokubas126"
+        }
+    ]
+}

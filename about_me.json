@@ -1,0 +1,55 @@
+{
+    "data_type": "about_me",
+    "content_itmes": [
+        {
+            "type": "about_me_item",
+            "title": "Hey!",
+            "description": [
+                "My name is Jokubas Serapinas. I am a Medialogy Bachelor student at Aalborg University Copenhagen and a Student Android Developer at Shape Games ApS. Thank you for coming to my page!",
+                "Here you will get to know me better. I will not only present my previous experience but also touch upon what am I like outside the IT world."
+            ],
+            "image": "https://i.ibb.co/3pDfGz9/about-me-intro.jpg"
+        },
+        {
+            "type": "category",
+            "title": "Work experience"
+        },
+        {
+            "type": "about_me_item",
+            "title": "Student Android Developer",
+            "description": [
+                "On May 2020, I started my career as an Android developer at Shape Games ApS.",
+                "Here I worked on the platform for popular sports betting apps used in Denmark (Oddset), USA (betJack), South America (BetWarrior) and many more client countries."
+            ],
+            "image": "https://i.ibb.co/ngQCVPM/shapegames-logo.jpg"
+
+        },
+        {
+            "type": "category",
+            "title": "Education"
+        },
+        {
+            "type": "about_me_item",
+            "title": "Medialogy Bachelor",
+            "description": [
+                "On September 2018, I started Medialogy Bachelor studies as an international student at the Aalborg University Copenhagen.",
+                "Here I got both theoretical and practical foundation for problem solving due to the university's Problem-based Learning (PBL) methodology."
+            ],
+            "image": "https://i.ibb.co/PZSYhmW/AAU-logo-round.png"
+        },
+        {
+            "type": "category",
+            "title": "Other activities"
+        },
+        {
+            "type": "about_me_item",
+            "title": "Music",
+            "description": [
+                "Since my childhood, music was one of my main activities and passions.",
+                "Being 10 years old I started playing trombone at Plunge's Mykolas Oginskis art school. Throughout that time I participated in various concerts and competitions, where I was able to win several prizes.",
+                "Later I started singing both in a vocal group Hello and individually. This led me to participate in The Voice of Lithuania, where I made it to the blind auditions."
+            ],
+            "image": "https://i.ibb.co/dbbTdLR/music-collage.jpg"
+        }
+    ]
+}

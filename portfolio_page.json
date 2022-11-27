@@ -1,0 +1,51 @@
+{
+    "data_type": "portfolio",
+    "content_items": [
+        {
+            "title": "Mobile Movie Database (MMDB)",
+            "description": "This Android application I developed by myself as a hobby project. It is used for searching movies from all over the world. The movie data for this application is retrieved from The Movie Database (TMDb).",
+            "images": [
+                "https://i.ibb.co/8KtpT3v/mmdb-main.jpg",
+                "https://i.ibb.co/z2s6Z3V/side-menu.jpg",
+                "https://i.ibb.co/xXkRbwr/movie-details-overview.jpg",
+                "https://i.ibb.co/bR43K3V/movie-details-media.jpg",
+                "https://i.ibb.co/d0z10CZ/movie-details-credits.jpg"
+            ],
+            "url": "https://github.com/Jokubas126/MobileMovieDatabase"
+        },
+        {
+            "title": "Ink Busters",
+            "description": "Multiplayer cooperative first-person shooter game created as a part of the Medialogy Bachelor's project. Using this game as a test prototype, we aimed to discover influence of the Dynamic Difficulty Adjustment (DDA) to the player's perceived flow (immersion).",
+            "images": [
+                "https://i.ibb.co/cvthSX9/ink-busters-cover-monster.png",
+                "https://i.ibb.co/bQjsTc4/ink-busters-cover-fountain.png",
+                "https://i.ibb.co/PY26sKV/ink-busters-player-room.jpg",
+                "https://i.ibb.co/T4hprfh/ink-busters-game1.jpg"
+            ],
+            "url": "https://github.com/Group-609/BachelorProject"
+        },
+        {
+            "title": "Wildfire Rush",
+            "description": "This is a game that our study group developed during the Theory and Practice of Game Design and Development course. The game puts the player into the shoes of the firefighter and has to save as many animals from the wildfire as possible.",
+            "images": [
+                "https://i.ibb.co/xDN6ty4/wildfire-rush-game-title.png",
+                "https://i.ibb.co/R6H4Kyw/wildfire-rush-main-menu.jpg",
+                "https://i.ibb.co/wph7vwc/wildfire-rush-gameplay.jpg",
+                "https://i.ibb.co/7rTCfnr/wildfire-rush-gameplay2.jpg"
+            ],
+            "url": "https://github.com/Jokubas126/BushfireGame"
+        },
+        {
+            "title": "Honey Quest",
+            "description": "This game was made as a prototype for the Medialogy 5th semester project. Having developed this prototype, we aimed to investigate different types of navigational aids and their effect on player's ability to create an accurate cognitive map of the game world. For this we compared arrow navigational aid with NPC (bee in our case).",
+            "images": [
+                "https://i.ibb.co/TB5fMp5/honey-quest-intro-bear.png",
+                "https://i.ibb.co/qp6NBmB/honey-quest-intro-bear-cubs.png",
+                "https://i.ibb.co/fx5DyqL/honey-quest-intro-honey.png",
+                "https://i.ibb.co/MZqTkty/honey-quest-arrow-aid.png",
+                "https://i.ibb.co/8xntsb0/honey-quest-lava-area.jpg"
+            ],
+            "url": "https://github.com/latedude2/P5Game"
+        }
+    ]
+}

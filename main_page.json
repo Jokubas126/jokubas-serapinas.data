@@ -1,0 +1,30 @@
+{
+    "data_type": "main_page",
+    "profile_image_link": "https://i.ibb.co/37GhFv3/profile-photo.jpg",
+    "full_name": "Jokubas Serapinas",
+    "position": "Android Developer",
+    "introduction": {
+        "title": "Hey!",
+        "description": "My name is Jokubas Serapinas. I am a Medialogy Bachelor student at Aalborg University Copenhagen and a Student Android Developer at Shape Games ApS. Thank you for coming to my page!",
+        "timeline_items": [
+            {
+                "title": "Started studies at the Aalborg University Copenhagen",
+                "description": "I started Medialogy bachelor studies as an international student at Aalborg University Copenhagen.",
+                "image_link": "https://i.ibb.co/PZSYhmW/AAU-logo-round.png",
+                "date": "September 2018"
+            },
+            {
+                "title": "First steps in Android development",
+                "description": "At first in one of the Medialogy 2nd semester courses, but later individually I started investigating native Android development. Throughout the upcoming year I developed several smaller apps including the Mobile Movie Database (MMDb), which you can look up in the Portfolio section.",
+                "image_link": "https://i.ibb.co/1bFV1Np/android-studio-logo.png",
+                "date": "Spring of 2019"
+            },
+            {
+                "title": "Part-time job as a Student Android Developer",
+                "description": "I started my career as an Android developer at Shape Games ApS. Here I worked part-time (2-3 days a week), while also combining it with my ongoing bachelor studies.",
+                "image_link": "https://i.ibb.co/ngQCVPM/shapegames-logo.jpg",
+                "date": "May 2020"
+            }
+        ]
+    }
+}
